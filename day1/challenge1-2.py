@@ -11,7 +11,7 @@ num_dict = {
     "nine": "9"
 }
 
-with open('challenge1.txt') as file:
+with open('day1/challenge1.txt') as file:
     while True:
         line = file.readline()
         if not line:
